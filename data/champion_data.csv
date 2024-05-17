@@ -1,0 +1,168 @@
+Champion,Class,Position,Resource,Range type,Adaptive type,Damage,Toughness,Control,Mobility,Utility,Style,Difficulty
+Aatrox,Juggernaut,Top,Manaless,Melee,Physical,3,3,2,2,2,20,2
+Ahri,Burst,Middle,Mana,Ranged,Magic,3,1,2,3,1,100,2
+Akali,Assassin,Top Middle,Energy,Melee,Physical,3,1,1,3,1,65,2
+Akshan,Marksman Assassin,Middle,Mana,Ranged,Physical,3,1,1,3,2,1,3
+Alistar,Vanguard,Support,Mana,Melee,Magic,1,3,3,1,2,65,1
+Amumu,Vanguard,Jungle Support,Mana,Melee,Magic,2,3,3,1,1,90,1
+Anivia,Battlemage,Middle,Mana,Ranged,Magic,3,1,3,1,2,100,3
+Annie,Burst,Middle,Mana,Ranged,Magic,3,1,3,1,2,100,1
+Aphelios,Marksman,Bottom,Mana,Ranged,Physical,3,1,2,1,1,20,3
+Ashe,Marksman,Bottom Support,Mana,Ranged,Physical,2,1,3,1,2,20,1
+Aurelion Sol,Battlemage,Middle,Mana,Ranged,Magic,3,1,2,2,1,100,3
+Azir,Specialist,Middle,Mana,Ranged,Magic,3,1,2,2,1,45,3
+Bard,Catcher,Support,Mana,Ranged,Magic,1,1,3,2,3,65,3
+Bel'Veth,Skirmisher,Jungle,Manaless,Melee,Physical,3,1,2,3,1,0,2
+Blitzcrank,Catcher,Support,Mana,Melee,Magic,1,2,3,1,1,90,1
+Cassiopeia,Battlemage,Middle,Mana,Ranged,Magic,3,1,3,1,1,100,3
+Brand,Burst,Jungle Support Middle,Mana,Ranged,Magic,3,1,2,1,1,100,2
+Braum,Warden,Support,Mana,Melee,Magic,1,2,3,1,2,90,2
+Briar,Diver,Jungle,Health,Melee,Physical,2,2,3,3,1,10,2
+Caitlyn,Marksman,Bottom,Mana,Ranged,Physical,3,1,2,2,1,10,1
+Camille,Diver,Top Support,Mana,Melee,Physical,3,2,2,3,1,40,3
+Cho'Gath,Specialist,Top,Mana,Melee,Magic,2,3,2,1,1,65,1
+Corki,Marksman,Middle,Mana,Ranged,Physical,3,1,1,2,1,45,2
+Darius,Juggernaut,Top,Mana,Melee,Physical,3,2,2,1,1,55,2
+Diana,Assassin Diver,Jungle Middle,Mana,Melee,Magic,3,2,2,2,1,65,1
+Dr. Mundo,Juggernaut,Top,Health,Melee,Physical,2,3,1,1,1,55,1
+Draven,Marksman,Bottom,Mana,Ranged,Physical,3,1,1,2,1,10,2
+Fiora,Skirmisher,Top,Mana,Melee,Physical,3,2,2,2,2,20,2
+Fizz,Assassin,Middle,Mana,Melee,Magic,3,1,2,3,1,90,2
+Ekko,Assassin,Jungle Middle,Mana,Melee,Magic,3,2,2,3,1,75,3
+Elise,Diver,Jungle,Mana,Ranged,Magic,2,2,2,2,1,65,2
+Evelynn,Assassin,Jungle,Mana,Melee,Magic,2,2,1,2,2,75,2
+Ezreal,Marksman,Bottom,Mana,Ranged,Physical,3,1,1,3,1,45,1
+Fiddlesticks,Specialist,Jungle,Mana,Ranged,Magic,3,1,3,1,1,100,2
+Galio,Warden,Middle Support,Mana,Melee,Magic,2,3,3,2,1,100,2
+Gangplank,Specialist,Top,Mana,Melee,Physical,3,1,1,1,2,75,3
+Garen,Juggernaut,Top,Manaless,Melee,Physical,2,3,1,1,1,75,1
+Gnar,Specialist,Top,Rage,Ranged,Physical,2,1,1,2,1,45,3
+Gragas,Vanguard,Jungle Top Middle,Mana,Melee,Magic,2,3,3,2,1,90,2
+Graves,Specialist,Jungle,Mana,Ranged,Physical,3,2,1,2,2,20,2
+Gwen,Skirmisher,Top,Mana,Melee,Magic,3,2,1,3,1,50,2
+Hecarim,Diver,Jungle,Mana,Melee,Physical,2,2,2,2,1,65,2
+Heimerdinger,Specialist,Support Top Middle,Mana,Ranged,Magic,3,1,2,1,2,100,2
+Hwei,Artillery,Middle Support,Mana,Ranged,Magic,3,1,3,1,2,90,3
+Illaoi,Juggernaut,Top,Mana,Melee,Physical,3,2,1,1,1,65,2
+Irelia,Diver,Top Middle,Mana,Melee,Physical,2,2,2,3,2,30,2
+Ivern,Catcher,Jungle,Mana,Ranged,Magic,1,1,3,2,3,10,3
+Janna,Enchanter,Support,Mana,Ranged,Magic,1,1,3,1,3,100,1
+Jarvan IV,Diver,Jungle,Mana,Melee,Physical,2,2,2,2,2,55,1
+Jax,Skirmisher,Top Jungle,Mana,Melee,Physical,3,2,2,2,1,10,1
+Jayce,Artillery,Top Middle,Mana,Melee,Physical,3,1,1,2,2,45,2
+Jhin,Marksman Catcher,Bottom,Mana,Ranged,Physical,3,1,2,1,1,20,2
+Jinx,Marksman,Bottom,Mana,Ranged,Physical,3,1,2,1,1,10,2
+K'Sante,Warden Skirmisher,Top,Mana,Melee,Physical,2,3,3,2,2,30,3
+Kai'Sa,Marksman,Bottom,Mana,Ranged,Magic,3,1,1,3,1,10,2
+Kalista,Marksman,Bottom,Mana,Ranged,Physical,3,1,1,3,2,10,3
+Karma,Burst Enchanter,Middle Support Top,Mana,Ranged,Magic,2,1,2,1,2,100,1
+Karthus,Battlemage,Jungle,Mana,Ranged,Magic,3,1,1,1,2,100,2
+Kassadin,Assassin,Middle,Mana,Melee,Magic,3,2,1,3,1,90,2
+Katarina,Assassin,Middle,Manaless,Melee,Magic,3,1,1,3,1,100,2
+Kayle,Specialist,Top,Mana,Melee,Physical,3,1,1,1,3,20,2
+Kayn,Skirmisher,Jungle,Mana,Melee,Physical,3,1,1,3,1,0,2
+Kennen,Specialist,Top,Energy,Ranged,Magic,3,1,3,1,1,65,2
+Kha'Zix,Assassin,Jungle,Mana,Melee,Physical,3,1,1,2,1,55,2
+Kindred,Marksman,Jungle,Mana,Ranged,Physical,3,1,2,3,1,20,3
+Kled,Skirmisher,Top,Courage,Melee,Physical,3,2,1,3,1,30,2
+Kog'Maw,Marksman,Bottom,Mana,Ranged,Physical,3,1,1,1,1,10,2
+LeBlanc,Burst,Middle,Mana,Ranged,Magic,3,1,2,3,1,100,2
+Lee Sin,Diver,Jungle,Energy,Melee,Physical,3,2,2,3,1,55,2
+Leona,Vanguard,Support,Mana,Melee,Physical,1,3,3,1,1,90,1
+Lillia,Skirmisher,Jungle,Mana,Melee,Magic,3,1,2,2,2,80,3
+Lissandra,Burst,Middle,Mana,Ranged,Magic,3,1,3,2,1,100,2
+Lucian,Marksman,Bottom,Mana,Ranged,Physical,3,1,1,3,1,30,2
+Lulu,Enchanter,Support,Mana,Ranged,Magic,2,1,2,1,3,80,2
+Lux,Burst Artillery,Middle Support,Mana,Ranged,Magic,3,1,2,1,2,90,1
+Malphite,Vanguard,Top Middle Support,Mana,Melee,Magic,1,3,3,1,1,75,1
+Malzahar,Battlemage,Middle,Mana,Ranged,Magic,3,1,3,1,2,100,1
+Maokai,Vanguard,Support Jungle,Mana,Melee,Magic,1,3,3,1,2,75,1
+Master Yi,Skirmisher,Jungle,Mana,Melee,Physical,3,1,1,2,1,10,1
+Milio,Enchanter,Support,Mana,Ranged,Magic,1,1,2,3,3,80,1
+Miss Fortune,Marksman,Bottom,Mana,Ranged,Physical,3,1,1,1,1,30,1
+Mordekaiser,Juggernaut,Top,Shield,Melee,Magic,3,2,1,1,2,80,2
+Morgana,Catcher,Support,Mana,Ranged,Magic,2,1,3,1,2,100,1
+Naafiri,Assassin,Middle,Mana,Melee,Physical,3,1,1,3,1,70,1
+Nami,Enchanter,Support,Mana,Ranged,Magic,1,1,3,1,2,90,2
+Nasus,Juggernaut,Top,Mana,Melee,Physical,2,3,2,1,1,20,1
+Nautilus,Vanguard,Support,Mana,Melee,Magic,1,3,3,1,1,80,2
+Neeko,Burst Catcher,Middle Support,Mana,Ranged,Magic,3,1,3,1,1,80,1
+Nidalee,Specialist,Jungle,Mana,Ranged,Magic,3,1,1,3,2,75,2
+Nilah,Skirmisher,Bottom,Mana,Melee,Physical,3,1,1,3,2,25,3
+Nocturne,Assassin,Jungle,Mana,Melee,Physical,3,1,2,2,2,30,1
+Nunu & Willump,Vanguard,Jungle,Mana,Melee,Magic,1,3,2,1,2,80,1
+Olaf,Diver,Top,Mana,Melee,Physical,2,2,2,1,1,30,1
+Orianna,Burst,Middle,Mana,Ranged,Magic,2,1,2,1,2,90,2
+Ornn,Vanguard,Top,Mana,Melee,Physical,1,3,3,1,2,60,2
+Pantheon,Diver,Top Support Jungle Middle,Mana,Melee,Physical,3,2,2,2,1,75,1
+Poppy,Warden,Top Jungle,Mana,Melee,Physical,2,3,3,2,1,75,2
+Pyke,Assassin Catcher,Support,Mana,Melee,Physical,2,1,3,3,1,50,2
+Qiyana,Assassin,Middle,Mana,Melee,Physical,3,1,2,2,1,70,3
+Quinn,Specialist,Top,Mana,Ranged,Physical,3,1,2,3,1,20,2
+Rakan,Catcher,Support,Mana,Melee,Magic,1,2,3,3,3,90,2
+Rammus,Vanguard,Jungle,Mana,Melee,Physical,2,3,3,2,1,65,1
+Rek'Sai,Diver,Jungle,Rage,Melee,Physical,2,2,2,2,2,30,2
+Rell,Vanguard,Support,Mana,Melee,Magic,1,3,3,2,2,85,2
+Renata Glasc,Enchanter,Support,Mana,Ranged,Magic,2,1,3,1,2,80,2
+Renekton,Diver,Top,Fury,Melee,Physical,2,2,2,2,1,45,1
+Rengar,Assassin Diver,Jungle Top,Ferocity,Melee,Physical,3,1,2,2,1,30,2
+Riven,Skirmisher,Top,Manaless,Melee,Physical,3,2,2,3,1,75,2
+Rumble,Battlemage,Top Middle,Heat,Melee,Magic,3,2,2,1,1,90,2
+Ryze,Battlemage,Middle,Mana,Ranged,Magic,3,1,2,2,2,100,2
+Samira,Marksman,Bottom,Mana,Ranged,Physical,3,2,1,3,1,0,2
+Sejuani,Vanguard,Jungle,Mana,Melee,Magic,2,2,3,2,1,75,2
+Senna,Marksman Enchanter,Bottom Support,Mana,Ranged,Physical,2,1,2,1,3,30,2
+Soraka,Enchanter,Support,Mana,Ranged,Magic,1,1,2,1,3,100,1
+Swain,Battlemage,Support Middle,Mana,Ranged,Magic,2,2,2,1,1,100,2
+Sylas,Burst Skirmisher,Middle Top,Mana,Melee,Magic,2,2,1,3,1,70,3
+Syndra,Burst,Middle,Mana,Ranged,Magic,3,1,2,1,1,100,2
+Seraphine,Burst Enchanter,Bottom Support,Mana,Ranged,Magic,3,1,3,1,2,100,1
+Sett,Juggernaut,Top,Grit,Melee,Physical,2,2,2,2,1,40,2
+Shaco,Assassin,Jungle Support,Mana,Melee,Physical,3,1,2,2,2,45,2
+Shen,Warden,Top Support,Energy,Melee,Physical,2,3,2,2,3,45,2
+Shyvana,Juggernaut,Jungle,Fury,Melee,Physical,2,2,1,2,1,55,1
+Singed,Specialist,Top,Mana,Melee,Magic,2,3,2,2,1,100,2
+Sion,Vanguard,Top,Mana,Melee,Physical,2,3,3,1,1,65,1
+Sivir,Marksman,Bottom,Mana,Ranged,Physical,3,1,1,1,2,10,2
+Skarner,Vanguard,Jungle Top,Mana,Melee,Physical,2,3,3,2,1,45,2
+Smolder,Marksman,Bottom Top Middle,Mana,Ranged,Physical,3,1,1,1,1,10,2
+Sona,Enchanter,Support,Mana,Ranged,Magic,2,1,2,1,2,90,1
+Tahm Kench,Warden,Top Support,Mana,Melee,Magic,2,3,2,1,3,65,1
+Talyah,Battlemage,Jungle Middle,Mana,Ranged,Magic,3,1,2,1,3,100,2
+Talon,Assassin,Middle Jungle,Mana,Melee,Physical,3,1,1,2,1,65,2
+Taric,Enchanter Warden,Support Middle,Mana,Melee,Physical,1,2,2,1,3,75,2
+Teemo,Specialist,Top Jungle Support,Mana,Ranged,Physical,3,1,2,1,2,30,1
+Trundle,Juggernaut,Top Jungle,Mana,Melee,Physical,2,3,1,1,2,20,1
+Tryndamere,Skirmisher,Top,Fury,Melee,Physical,3,2,1,2,1,10,1
+Twisted Fate,Burst,Middle Bottom Top,Mana,Ranged,Magic,3,1,2,2,2,65,2
+Twitch,Marksman Assassin,Bottom Support,Mana,Ranged,Physical,3,1,1,2,1,0,2
+Udyr,Juggernaut,Top Jungle,Mana,Melee,Physical,2,3,2,2,1,35,1
+Urgot,Juggernaut,Top,Mana,Ranged,Physical,2,2,2,1,1,55,2
+Vayne,Marksman,Bottom Top,Mana,Ranged,Physical,3,1,2,2,1,0,2
+Veigar,Burst,Middle Support,Mana,Ranged,Magic,3,1,3,1,1,100,2
+Vel'Koz,Artillery,Support Middle,Mana,Ranged,Magic,3,1,2,1,1,100,2
+Vladimir,Battlemage,Middle Top,Bloodthirst,Ranged,Magic,3,2,1,1,1,100,2
+Viego,Skirmisher,Jungle,Manaless,Melee,Physical,3,1,2,2,1,20,3
+Volibear,Juggernaut,Top Jungle,Mana,Melee,Physical,2,3,2,2,1,30,1
+Warwick,Diver,Jungle Top,Mana,Melee,Physical,2,2,2,1,1,30,1
+Xerath,Artillery,Middle Support,Mana,Ranged,Magic,3,1,2,1,1,90,2
+Xin Zhao,Diver,Jungle,Mana,Melee,Physical,2,2,2,2,1,35,1
+Yasuo,Skirmisher,Top Middle Bottom,Flow,Melee,Physical,3,1,2,3,2,20,3
+Yone,Assassin Skirmisher,Top Middle,Manaless,Melee,Physical,3,1,2,3,1,45,3
+Wukong,Diver,Jungle Top,Mana,Melee,Physical,2,2,2,2,1,55,1
+Xayah,Marksman,Bottom,Mana,Ranged,Physical,3,2,3,1,1,30,2
+Yuumi,Enchanter,Support,Mana,Ranged,Magic,1,1,1,3,3,100,1
+Vi,Diver,Jungle,Mana,Melee,Physical,2,2,3,2,1,55,1
+Vex,Burst,Middle,Mana,Ranged,Magic,3,2,2,2,1,90,2
+Victor,Battlemage,Middle,Mana,Ranged,Magic,3,1,2,1,1,90,3
+Yorick,Juggernaut,Top,Mana,Melee,Physical,2,2,2,1,2,55,2
+Zac,Vanguard,Jungle Top Support,Health,Melee,Magic,2,3,3,2,1,100,1
+Zed,Assassin,Middle Jungle,Energy,Melee,Physical,3,1,1,3,1,55,3
+Zeri,Marksman,Bottom,Mana,Ranged,Physical,2,1,2,3,1,35,2
+Ziggs,Artillery,Bottom Middle,Mana,Ranged,Magic,3,1,2,2,1,90,2
+Zilean,Specialist,Support,Mana,Ranged,Magic,2,1,2,2,3,100,2
+Zoe,Burst,Middle,Mana,Ranged,Magic,3,1,2,2,1,100,3
+Zyra,Catcher,Support,Mana,Ranged,Magic,3,1,3,1,1,100,2
+Varus,Marksman Artillery,Bottom,Mana,Ranged,Physical,3,1,2,1,1,20,2
+Thresh,Catcher,Support,Mana,Ranged,Physical,1,2,3,1,3,75,3
+Tristana,Marksman,Bottom Middle,Mana,Ranged,Physical,3,1,2,2,1,20,1
